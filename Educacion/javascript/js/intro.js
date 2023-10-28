@@ -1,3 +1,0 @@
-
-
-alert ("oh yeah1!");
